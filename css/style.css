@@ -107,8 +107,9 @@ h2#contact:before {background-position: right bottom;}
 }
 #bio iframe {margin: 0 auto; display: block;}
 #aboutme .imgwap{
-	width:40%;
+	width:20%;
 	float:left;
+	padding-left: 50px;
 }
 #aboutme p{
 	float:right;
@@ -372,6 +373,7 @@ body.respond #aboutme .imgwap{
 	width:100%;
 	float:none;
 	text-align:center;
+
 }
 body.respond #aboutme p{
 	padding-left:50px;
