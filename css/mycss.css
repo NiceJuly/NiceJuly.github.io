@@ -1,0 +1,23 @@
+#footer{
+	height: 30px;
+	width: 100%;
+	border: 2px solid red;
+	border-style: solid none solid none;
+	background-color: black;
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	line-height:30px;
+}
+
+.overlay {
+	background-color: #000;
+	position: fixed;
+	top: 0;
+	left: 150px;
+}
+.overlayimg {
+	position: fixed;
+	width: 80%;
+	height: 100%;
+}

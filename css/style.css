@@ -320,7 +320,29 @@ ul#schools li > p,
 ul#recommends li > p {float: right; width: 57%; margin-bottom: 5px;}
 
 .details h5 {font-style: italic;}
+#footer{
+	height: 30px;
+	width: 100%;
+	border: 2px solid red;
+	border-style: solid none solid none;
+	background-color: black;
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	line-height:30px;
+}
 
+.overlay {
+	background-color: #000;
+	position: fixed;
+	top: 0;
+	left: 150px;
+}
+.overlayimg {
+	position: fixed;
+	width: 80%;
+	height: 100%;
+}
 
 body.respond {background: #fff;}
 body.respond #sticker {display: none;}
@@ -374,26 +396,3 @@ body.respond #copyright {margin: 60px auto;}
 
 body.respond #messageSent {margin-top: 20px;}
 
-#footer{
-	height: 30px;
-	width: 100%;
-	border: 2px solid red;
-	border-style: solid none solid none;
-	background-color: black;
-	font-size: 20px;
-	color: red;
-	text-align: center;
-	line-height:30px;
-}
-
-.overlay {
-	background-color: #000;
-	position: fixed;
-	top: 0;
-	left: 150px;
-}
-.overlayimg {
-	position: fixed;
-	width: 80%;
-	height: 100%;
-}
