@@ -1,2 +1,2 @@
-# NiceJuly.github.io
+# Sydhy.github.io
 这是我的个人简历。
